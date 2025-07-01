@@ -3,3 +3,7 @@ body{
    color: #faf6f6;
 
 }
+
+header{
+    border: solid 2px rgb(253, 251, 251);
+}
